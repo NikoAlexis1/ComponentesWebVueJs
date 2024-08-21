@@ -58,7 +58,7 @@
           </div>
           <article>
             <header>FIRMA DEL TITULAR</header>
-            <span>X Æ A-12</span>
+            <span>{{ Firma }}</span>
           </article>
         </section>
       </main>
@@ -80,6 +80,7 @@
         Documento: "222.222.222",
         FechaEmision: "01 ENE 2025",
         FechaVencimiento: "01 ENE 2030",
+        Firma: "X Æ A-12",
       }
     }
   }
